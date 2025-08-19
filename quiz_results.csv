@@ -1,0 +1,21 @@
+User,Score,Question,User Answer,Correct Answer
+qwerty,8/10,Who developed Python?,Guido van Rossum,Guido van Rossum
+qwerty,8/10,What is the output of print(2 ** 3)?,8,8
+qwerty,8/10,Which keyword is used to define a function in Python?,def,def
+qwerty,8/10,Which of the following is a mutable data type in Python?,tuple,list
+qwerty,8/10,What is the output of print(type([]))?,<class 'list'>,<class 'list'>
+qwerty,8/10,Which operator is used for floor division in Python?,None,//
+qwerty,8/10,What is the correct way to create a dictionary in Python?,dict = {},dict = {}
+qwerty,8/10,What is the output of print(bool(0))?,False,False
+qwerty,8/10,What is the difference between 'is' and '==' in Python?,"'==' checks value, 'is' checks memory location","'==' checks value, 'is' checks memory location"
+qwerty,8/10,What will be the output of print([i for i in range(5) if i % 2 == 0])?,"[0, 2, 4]","[0, 2, 4]"
+qwerty,10/10,Who developed Python?,Guido van Rossum,Guido van Rossum
+qwerty,10/10,What is the output of print(2 ** 3)?,8,8
+qwerty,10/10,Which keyword is used to define a function in Python?,def,def
+qwerty,10/10,Which of the following is a mutable data type in Python?,tuple,list
+qwerty,10/10,What is the output of print(type([]))?,<class 'list'>,<class 'list'>
+qwerty,10/10,Which operator is used for floor division in Python?,None,//
+qwerty,10/10,What is the correct way to create a dictionary in Python?,dict = {},dict = {}
+qwerty,10/10,What is the output of print(bool(0))?,False,False
+qwerty,10/10,What is the difference between 'is' and '==' in Python?,"'==' checks value, 'is' checks memory location","'==' checks value, 'is' checks memory location"
+qwerty,10/10,What will be the output of print([i for i in range(5) if i % 2 == 0])?,"[0, 2, 4]","[0, 2, 4]"
